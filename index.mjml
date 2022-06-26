@@ -1,0 +1,59 @@
+<mjml>
+  <mj-head>
+    <mj-title>Apple Letter</mj-title>
+    <mj-preview>Apple Letter</mj-preview>
+    <mj-style> h1{ font-size: inherit }; </mj-style>
+  </mj-head>
+
+  <mj-body width="640px">
+  <!-- HEADER -->
+    <mj-section background-color="#313131" padding="0">
+      <mj-column>
+        <mj-image width="24px" align="center" padding="24px" src="/img/apl.png">
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#141415" padding="0">
+      <mj-column>
+        <mj-text
+          padding="60px 30px 0px 30px"
+          color="#FFFFFF"
+          font-size="40px"
+          line-height="1.22"
+          font-weight="700"
+          align="center"
+          font-family="Verdana"
+        >
+          <h1>Our most stunning take on post-production.</h1>
+        </mj-text>
+        <mj-button
+          css-class="link"
+          align="center"
+          font-family="Verdana"
+          font-weight="700"
+          background-color="transparent"
+          color="#51ACFF"
+          font-size="15px"
+          line-height="1.2"
+          href="http://nebrativka.pp.ua/"
+          >Buy now
+          <img style="vertical-align:middle" src="/img/btn.png"/>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Третий экран -->
+  <mj-section background-color="#141415" padding="0">
+      <mj-column>
+        <mj-image src="/img/apl_pc.png"/>
+      </mj-column>
+  </mj-section>
+
+  <!--ADVANTAGES  -->
+<mj-section background-color="#141415" padding="0">
+<mj-column>
+
+</mj-column>
+</mj-section>
+
+  </mj-body>
+</mjml>
