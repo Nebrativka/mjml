@@ -127,28 +127,30 @@
 </mj-wrapper>
 
 <!-- FOOTER -->
-<mj-section background-color="#313131" padding="0">
-<mj-group width="120px">
-<mj-column>
- <mj-button css-class="social" background-color="transparent" padding="48px 20px">
-          <img style="vertical-align:middle" src="/img/fb.png"/>
+
+<!-- FOOTER SOCIAL -->
+<mj-section background-color="#313131" padding="48px 20px" >
+<mj-group width="120px" >
+<mj-column >
+ <mj-button css-class="social" background-color="transparent">
+          <img style="vertical-align:center" src="/img/fb.png"/>
  </mj-button>
 </mj-column>
 
-<mj-column>
-<mj-button css-class="social" background-color="transparent" padding="48px 20px">
+<mj-column >
+<mj-button css-class="social" background-color="transparent">
           <img style="vertical-align:middle" src="/img/tw.png"/>
  </mj-button>
 </mj-column>
 
 <mj-column>
-<mj-button css-class="social" background-color="transparent" padding="48px 20px">
+<mj-button css-class="social" background-color="transparent">
           <img style="vertical-align:middle" src="/img/in.png"/>
  </mj-button>
 </mj-column>
 </mj-group>
 </mj-section>
-
+<!-- FOOTER TEXT -->
 <mj-section background-color="#313131" padding="0">
 <mj-group>
 <mj-column>
