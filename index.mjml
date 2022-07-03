@@ -96,7 +96,7 @@
     <!-- Третий экран -->
   <mj-section padding="0">
       <mj-column>
-        <mj-image src="/img/apl_pc.png"/>
+        <mj-image src="http://nebrativka.pp.ua/img/apl_pc.png"/>
       </mj-column>
   </mj-section>
 
